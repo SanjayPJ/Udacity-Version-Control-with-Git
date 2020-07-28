@@ -1,4 +1,10 @@
-# Git
+# README
+
+## Projects used in this course
+
+- https://github.com/udacity/course-git-blog-project
+
+## Git
 
 Git is a distributed version-control system for tracking changes in source code during software development [...](https://en.wikipedia.org/wiki/Git)
 
