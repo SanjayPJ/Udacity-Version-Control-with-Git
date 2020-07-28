@@ -4,6 +4,10 @@
 
 - https://github.com/udacity/course-git-blog-project
 
+## My Notes
+
+- [Cheetsheet](notes/Git%20Cheetsheet.md)
+- [Notes](notes/Version%20Control%20with%20Git.md)
 ## Git
 
 Git is a distributed version-control system for tracking changes in source code during software development [...](https://en.wikipedia.org/wiki/Git)
